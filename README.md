@@ -2,7 +2,7 @@
 
 I don't often log on Github due to network problems, so you can easily find me on [Gitee](https://gitee.com/shih945).
 
-
+![count](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/shih945)
 
 <!--
 **shih945/shih945** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
